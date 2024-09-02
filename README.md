@@ -19,14 +19,10 @@
 
 - 💬 Ask me about **Python,AI,NLP,Django**
 
-- 📫 How to reach me **f.ahmadzadeh920@gmail.com**
-
 - ⚡ Fun fact **I really see different now..**
 
 
-<p align="left">
-<a href="https://www.linkedin.com/in/fatemeh-ahmadzadeh-abb542a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadzadeh920" height="25" width="35" /></a>
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>

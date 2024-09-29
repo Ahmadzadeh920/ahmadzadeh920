@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatemeh Ahmadzadeh</h1>
+<h1 align="center">Hi 👋, I'm Fatemeh Ahmad</h1>
 <h3 align="center"> Web and AI Developer</h3>
 
 <p align="left">Fatemeh Ahmadzadeh is an AI and web developer with a degree in Decision sciences and knowledge engineering. His passion for the intersection of AI and web servise has been the driving force behind his education, work, and development.</p>
